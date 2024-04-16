@@ -1,4 +1,4 @@
-package org.example;
+package nju.se.testfixer;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
